@@ -12,3 +12,5 @@ git diff segir þér munin á repositorium
 útgafustýring er hjálpsamlegt fyrir betri stjórnun á stórum verkefnum. það leyfir fólki að gera eina útgáfu í einu og sytja þær saman í endanum.
 # verkefni 5  :
 GIT er aðgengilegt og það er hægt að fara til baka ef einhver vill breyta einhverju.
+# verkefni 6
+það er gott að gera það í hvert skipti þegar einhver bætir,breytir eða eyðir svo að það sé hægt að fara til baka
