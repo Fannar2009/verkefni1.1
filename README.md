@@ -9,3 +9,4 @@ git diff segir þér munin á repositorium
 # verkefni 3  :
 þessar 3 skipanir segja þér hvað þú ert búin að gera nýlega, hvert þú varst að senda seinast verkefni og hvar þú ert að senda verkefni.
 # verkefni 4  :
+útgafustýring er hjálpsamlegt fyrir betri stjórnun á stórum verkefnum. það leyfir fólki að gera eina útgáfu í einu og sytja þær saman í endanum.
