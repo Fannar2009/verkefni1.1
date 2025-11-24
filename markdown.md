@@ -19,4 +19,4 @@
 - appelsína
 - 15\. rúsinur
 
-![metallica album cover](ride-the-lightning_cover)
+![metallica album cover](ride-the-lightning_cover.webp)
