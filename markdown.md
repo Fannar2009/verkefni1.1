@@ -14,3 +14,7 @@
     3. rifinn ostur
     4. grænmeti
 5. mjólk
+
+- bananar
+- appelsína
+- 15\. rúsinur
