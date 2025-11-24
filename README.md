@@ -14,3 +14,5 @@ git diff segir þér munin á repositorium
 GIT er aðgengilegt og það er hægt að fara til baka ef einhver vill breyta einhverju.
 # verkefni 6
 það er gott að gera það í hvert skipti þegar einhver bætir,breytir eða eyðir svo að það sé hægt að fara til baka
+# verkefni 7
+working directory er þar sem notandin er að vina núna en staging area er þar sem hann geymir allt áður en hann bætir það í skránna.
